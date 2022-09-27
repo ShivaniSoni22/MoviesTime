@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MoviesTime</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="light_or_dark_icon">light or dark icon</string>
+    <string name="light_mode">light</string>
+    <string name="dark_mode">dark</string>
+    <string name="search_movie">search movie or show</string>
+    <string name="popular_movie">Popular Movie</string>
+    <string name="popular_movie_image">Popular movie image</string>
+    <string name="recent_movie_image">Recent Movie Image</string>
+    <string name="search_icon">Search Icon</string>
+
+    <string name="text_too_many_request_error">Your request cannot be made :(</string>
+    <string name="retry">Retry</string>
+    <string name="unknown_error_occurred">An Unknown Error occurred</string>
+    <string name="not_connected_internet">Oops!! you are not connected to Internet</string>
+    <string name="not_connected_internet_error">You are not connected, your movie will be refreshed when you are online</string>
+    <string name="try_again">Try Again</string>
+    <string name="not_connected">Not Connected</string>
+    <string name="need_to_be_online">You need to be online for first time visit</string>
+    <string name="something_went_wrong">Something went wrong</string>
+
+    <string name="cancel_dialog">Cancel</string>
+</resources>

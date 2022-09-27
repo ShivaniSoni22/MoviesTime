@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/custom_cursor.xml" value="0.1325" />
+        <entry key="app/src/main/res/drawable-v24/et_input.xml" value="0.1325" />
+        <entry key="app/src/main/res/drawable-v24/ic_back.xml" value="0.1325" />
+        <entry key="app/src/main/res/drawable-v24/ic_dark_mode.xml" value="0.1325" />
+        <entry key="app/src/main/res/drawable-v24/ic_light_mode.xml" value="0.1325" />
+        <entry key="app/src/main/res/drawable-v24/ic_no_internet.xml" value="0.1325" />
+        <entry key="app/src/main/res/drawable-v24/ic_sad.xml" value="0.1325" />
+        <entry key="app/src/main/res/drawable-v24/ic_search.xml" value="0.1325" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2828125" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.2828125" />
+        <entry key="app/src/main/res/layout/fragment_search.xml" value="0.2828125" />
+        <entry key="app/src/main/res/layout/layout_all_movies.xml" value="0.2828125" />
+        <entry key="app/src/main/res/layout/layout_recent_movies.xml" value="0.128125" />
+        <entry key="app/src/main/res/layout/layout_searched_movies.xml" value="0.2828125" />
+        <entry key="app/src/main/res/layout/lyt_shimmer.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/rcv_popular_news.xml" value="0.2828125" />
+        <entry key="app/src/main/res/layout/rcv_recent_news.xml" value="0.2828125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
